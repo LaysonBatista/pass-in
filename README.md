@@ -7,7 +7,7 @@
 
 # pass.in
 
-O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**, desenvolvida usando Java, Spring Boot e o HyperSQL como banco de dados.
+O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**, desenvolvida usando Java, Maven, Spring Boot e API Rest. Integração eficiente com HSQL Database, JPA, migrações via Flyway, e uso de DTOs para manipulação de dados.
 
 A ferramenta permite que o organizador cadastre um evento e abra uma página pública de inscrição.
 
